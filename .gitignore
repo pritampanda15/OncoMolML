@@ -1,0 +1,5 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+oncomolml.egg-info/
