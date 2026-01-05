@@ -12,3 +12,7 @@ model = DrugResponseNet(
 gene_expr = torch.randn(32, 978)      # Batch of gene expressions
 mol_fp = torch.randn(32, 2048)        # Drug fingerprints
 ic50_pred = model(gene_expr, mol_fp)  # Predicted IC50 values
+
+print("Predicted IC50 values:", ic50_pred)
+
+
