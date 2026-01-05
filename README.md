@@ -188,11 +188,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 📖 Citation
 
 ```bibtex
-@software{oncomolml2024,
-  author = {Your Name},
+@software{oncomolml2026,
+  author = Pritam Kumar Panda,
   title = {OncoMolML: ML Toolkit for Cancer Drug Discovery},
-  year = {2024},
-  url = {https://github.com/yourusername/oncomolml}
+  year = {2026},
+  url = {https://github.com/pritampanda15/OncoMolML}
 }
 ```
 
